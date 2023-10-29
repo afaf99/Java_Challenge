@@ -19,6 +19,9 @@ The challenges included in this repository are organized into directories based 
 - Sorting and Searching
 - Object-Oriented Programming
 - Recursion and Dynamic Programming
+- SQL
+- HTML & CSS
+- JavaScript
 
 Feel free to explore and tackle these challenges to enhance your Java programming skills.
 
