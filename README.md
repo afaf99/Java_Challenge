@@ -16,9 +16,7 @@ This repository serves as a valuable resource for both learners and educators. Y
 
 The challenges included in this repository are organized into directories based on their respective topics. Some of the categories may include:
 - Arrays and Lists
-- Sorting and Searching
 - Object-Oriented Programming
-- Recursion and Dynamic Programming
 - SQL
 - HTML & CSS
 - JavaScript
