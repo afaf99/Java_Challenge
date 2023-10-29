@@ -7,9 +7,6 @@ Welcome to the Java Challenges repository, containing a collection of coding cha
 1. [Overview](#overview)
 2. [Challenges](#challenges)
 3. [Getting Started](#getting-started)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Overview
 
